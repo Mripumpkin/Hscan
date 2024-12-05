@@ -1,4 +1,4 @@
-module go_scan
+module h_scan
 
 go 1.22.2
 
@@ -11,7 +11,6 @@ require (
 )
 
 require (
-	github.com/stretchr/testify v1.10.0 // indirect
 	github.com/vishvananda/netns v0.0.4 // indirect
 	golang.org/x/sys v0.10.0 // indirect
 )
